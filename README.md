@@ -1,7 +1,7 @@
 [创建 QQ 群及捐赠渠道](https://baijunyao.com/article/124)  
 
 ## 链接
-- 博客：http://baijunyao.com  
+- 博客：http://baijunyao.com  1
 - github：https://github.com/baijunyao/thinkphp-bjyblog  
 - gitee：https://gitee.com/baijunyao/thinkbjy  
 
