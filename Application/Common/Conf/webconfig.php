@@ -8,12 +8,12 @@ return array(
     'ADMIN_EMAIL'               =>  'baijunyao@baijunyao.com',          // 站长邮箱
 
 //*************************************优化推广****************************************
-    'WEB_NAME'                  =>  '白俊遥博客',             //网站名：
-    'WEB_KEYWORDS'              =>  '白俊遥,帅白,技术博客,个人博客,bjyblog',         //网站关键字
-    'WEB_DESCRIPTION'           =>  '白俊遥的个人技术博客,bjyblog官方网站',      //网站描述
-    'AUTHOR'                    =>  '白俊遥',               //默认作者
-    'COPYRIGHT_WORD'            =>  '本文为白俊遥原创文章,转载无需和我联系,但请注明来自白俊遥博客baijunyao.com',       //文章保留版权提示
-    'IMAGE_TITLE_ALT_WORD'      =>  '白俊遥博客', //图片默认title和alt
+    'WEB_NAME'                  =>  '王卉博客',             //网站名：
+    'WEB_KEYWORDS'              =>  '王卉,帅白,技术博客,个人博客,bjyblog',         //网站关键字
+    'WEB_DESCRIPTION'           =>  '王卉的个人技术博客,bjyblog官方网站',      //网站描述
+    'AUTHOR'                    =>  '王卉',               //默认作者
+    'COPYRIGHT_WORD'            =>  '本文为王卉原创文章,转载无需和我联系,但请注明来自王卉博客baijunyao.com',       //文章保留版权提示
+    'IMAGE_TITLE_ALT_WORD'      =>  '王卉博客', //图片默认title和alt
 
 //*************************************水印设置****************************************
     'WATER_TYPE'                =>  '1',           //水印类型 0:不使用水印 1:文字水印 2:图片水印 3:文字和图片水印同时使用
