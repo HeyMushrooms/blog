@@ -1,13 +1,13 @@
 {
   "name": "baijunyao/thinkphp-bjyblog",
   "version": "1.0.0",
-  "description": "白俊遥博客",
+  "description": "我的博客",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
-    "白俊遥",
+    "我的",
     "博客"
   ],
   "author": "baijunyao",
