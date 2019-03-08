@@ -6,6 +6,8 @@
  * Date: 2019/3/8
  * Time: 16:25
  */
+namespace Home\testController;
+
 class testController extends HomeBaseController
 {
     private $time;
