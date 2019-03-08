@@ -8,16 +8,16 @@ return array(
     'ADMIN_EMAIL'               =>  'baijunyao@baijunyao.com',          // 站长邮箱
 
 //*************************************优化推广****************************************
-    'WEB_NAME'                  =>  '王卉博客',             //网站名：
-    'WEB_KEYWORDS'              =>  '王卉,帅白,技术博客,个人博客,bjyblog',         //网站关键字
-    'WEB_DESCRIPTION'           =>  '王卉的个人技术博客,bjyblog官方网站',      //网站描述
-    'AUTHOR'                    =>  '王卉',               //默认作者
-    'COPYRIGHT_WORD'            =>  '本文为王卉原创文章,转载无需和我联系,但请注明来自王卉博客baijunyao.com',       //文章保留版权提示
-    'IMAGE_TITLE_ALT_WORD'      =>  '王卉博客', //图片默认title和alt
+    'WEB_NAME'                  =>  '我的博客',             //网站名：
+    'WEB_KEYWORDS'              =>  '我的,技术博客,个人博客,',         //网站关键字
+    'WEB_DESCRIPTION'           =>  '我的的个人技术博客,',      //网站描述
+    'AUTHOR'                    =>  '我的',               //默认作者
+    'COPYRIGHT_WORD'            =>  '本文为我的原创文章,转载无需和我联系,但请注明来自我的博客',       //文章保留版权提示
+    'IMAGE_TITLE_ALT_WORD'      =>  '我的博客', //图片默认title和alt
 
 //*************************************水印设置****************************************
     'WATER_TYPE'                =>  '1',           //水印类型 0:不使用水印 1:文字水印 2:图片水印 3:文字和图片水印同时使用
-    'TEXT_WATER_WORD'           =>  'baijunyao.com',      //文字水印内容
+    'TEXT_WATER_WORD'           =>  '.com',      //文字水印内容
     'TEXT_WATER_TTF_PTH'        =>  './Public/static/font/ariali.ttf',   //文字水印字体路径
     'TEXT_WATER_FONT_SIZE'      =>  '15', //文字水印文字字号
     'TEXT_WATER_COLOR'          =>  '#008CBA',     //文字水印文字颜色
